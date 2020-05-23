@@ -1,0 +1,5 @@
+2020-05-23 20:53:15,754[TestNG-tests-1]On Test Start testLoginOption
+2020-05-23 20:53:15,762[TestNG-tests-1]On Test Start testLoginOption
+2020-05-23 20:55:09,540[TestNG-tests-1]Usertestuser@mailinator.comis successfully logged in 
+2020-05-23 20:55:09,585[TestNG-tests-1]On Test Failed testLoginOption
+2020-05-23 20:55:10,140[TestNG-tests-1]On Test Failed testLoginOption
